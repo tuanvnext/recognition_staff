@@ -1,0 +1,16 @@
+face_recognition_models
+face_recognition
+Click>=6.0
+dlib>=19.3.0
+numpy
+Pillow
+scipy>=0.17.0
+scikit-learn
+opencv-python
+sqlalchemy
+mysqlclient
+imutils
+rabbitmq
+pika
+flask-jwt-extended
+passlib

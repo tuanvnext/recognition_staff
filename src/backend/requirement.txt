@@ -1,0 +1,3 @@
+sqlalchemy
+pip install mysqlclient (mix os/ python 3)
+apt-get install python-mysqldb (Linux Ubuntu, ...)
